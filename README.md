@@ -14,7 +14,7 @@
 
 ## Activities
  
- <!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ![Snake animation](https://github.com/lauramainero/lauramainero/blob/output/github-contribution-grid-snake.svg)
