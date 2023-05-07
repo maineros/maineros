@@ -15,6 +15,14 @@
 ## Activities
  
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 51 mins
+
+Python     47 mins         ███████████████████████░░   91.80 %
+Markdown   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+```
+
 <!--END_SECTION:waka-->
  
 ![Snake animation](https://github.com/lauramainero/lauramainero/blob/output/github-contribution-grid-snake.svg)
