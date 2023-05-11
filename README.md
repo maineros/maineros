@@ -1,5 +1,7 @@
-# <img src=http://3.bp.blogspot.com/-pVKRqAPykps/UlQqL1a5OfI/AAAAAAAAZkU/9HRBxynldTo/s1600/killua.gif width="60"/>Mainero 
-## Hey, welcome to my GitHub profile page! 👋
+# MAINERO
+## <img src="https://i.imgur.com/H2TbUiz.gif" width="70"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=490&lines=Ayo%2C+welcome+to+my+GitHub+profile+page!)](https://git.io/typing-svg)
+[![wakatime](https://wakatime.com/badge/user/d01e8061-ffc9-41d3-ab2d-9e86ebbab57e.svg)](https://wakatime.com/@d01e8061-ffc9-41d3-ab2d-9e86ebbab57e)
+
 [![Mainero's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramainero&show_icons=true&theme=algolia&bg_color=00000000&hide=prs,contribs)](https://github.com/lauramainero/github-readme-stats)
 
 ## A little bit about me...
@@ -8,11 +10,11 @@
 - Pronouns: she/her
 - Likes: Books, Anime, RPGMaker games, VKei, K-Pop
 
-## <img src=http://4.bp.blogspot.com/-WBWwbq9cItQ/UlQpXglOkXI/AAAAAAAAZhU/MPzDSpAtpzk/s1600/Killuas.gif width="60"/> Tools and languages I'm learning:
+## <img src="https://i.imgur.com/RV4lfdG.gif" width="75"/>Tools and technologies:
 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Latex-048484?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-644cc4?style=for-the-badge&logo=obsidian&logoColor=white"/>
 
-## Activities
+## <img src="https://i.imgur.com/bxy81mB.gif" width="55"/>Activities
  
 <!--START_SECTION:waka-->
 
