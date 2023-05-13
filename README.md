@@ -4,7 +4,7 @@
 ## <img src="https://i.imgur.com/H2TbUiz.gif" width="70"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&center=true&center=true&vCenter=true&width=600&lines=Ayo%2C+I'm+Laura%2C+welcome+to+my+GitHub+profile+page!)](https://git.io/typing-svg)
 [![wakatime](https://wakatime.com/badge/user/d01e8061-ffc9-41d3-ab2d-9e86ebbab57e.svg)](https://wakatime.com/@d01e8061-ffc9-41d3-ab2d-9e86ebbab57e)
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=lauramainero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,contribs"/> <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramainero&layout=compact&langs_count=7&theme=algolia"/>
+<img height="80em" src="https://github-readme-stats.vercel.app/api?username=lauramainero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,contribs"/> <img height="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramainero&layout=compact&langs_count=7&theme=algolia"/>
 
 ## A little bit about me...
 
