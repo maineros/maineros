@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 113 hrs 45 mins
+Total Time: 117 hrs 48 mins
 
-Python       81 hrs 37 mins  ██████████████████░░░░░░░   71.64 %
-HTML         9 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-JavaScript   8 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Python       81 hrs 37 mins  █████████████████▒░░░░░░░   69.17 %
+HTML         9 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+JavaScript   8 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 
 <!--END_SECTION:waka-->
