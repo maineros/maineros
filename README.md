@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 442 hrs 6 mins
+Total Time: 442 hrs 55 mins
 
-C              246 hrs 15 mins ██████████████░░░░░░░░░░░   55.63 %
-Python         145 hrs 10 mins ████████▒░░░░░░░░░░░░░░░░   32.80 %
+C              247 hrs 1 min   ██████████████░░░░░░░░░░░   55.70 %
+Python         145 hrs 10 mins ████████▒░░░░░░░░░░░░░░░░   32.74 %
 JavaScript     15 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
