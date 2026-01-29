@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 655 hrs 32 mins
+Total Time: 657 hrs 6 mins
 
-C                 360 hrs 20 mins █████████████▓░░░░░░░░░░░   54.76 %
-Python            158 hrs 1 min   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-C++               69 hrs 32 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+C                 360 hrs 20 mins █████████████▓░░░░░░░░░░░   54.63 %
+Python            158 hrs 1 min   ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+C++               71 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
